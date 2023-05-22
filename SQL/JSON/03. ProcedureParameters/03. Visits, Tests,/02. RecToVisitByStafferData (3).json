@@ -1,0 +1,15 @@
+{
+  "Staffer": {
+    "Login": "Volosevich76",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Patient": {
+    "Login": "GoodGuy"
+  },
+  "Visit": {
+    "Specialist": {
+      "Login": "Kheidor"
+    },
+    "ScheduledDateTime": "2022-11-09T10:30:00"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "Login": "Tykooon",
+  "Email": "alexandertykun@coherentsolutions.com",
+  "PasswordHash": "20e0dckdjc02kdcjlaksdca",
+  "FullName": "Alex Tykoun",
+  "Gender": {
+    "GenderName": "male"
+  },
+  "DateOfBirth": "10/13/1977",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375296480979"
+    },
+    {
+      "PhoneNumber": "\u002B375173074754"
+    }
+  ],
+  "RegisterDateTime": "2022-09-27T18:50:45.2192667+03:00",
+  "UserRole": {
+    "UserRole": "administrator"
+  },
+  "LastActiveDateTime": "2022-09-27T18:50:45.2241196+03:00",
+  "AdminApprover": null
+}

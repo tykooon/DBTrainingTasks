@@ -1,0 +1,16 @@
+{
+ "ServiceStatuses": [
+    {
+      "ServiceStatus": "Accessible"
+    },
+    {
+      "ServiceStatus": "Suspended"
+    },
+    {
+      "ServiceStatus": "Depricated"
+    },
+    {
+      "ServiceStatus": "On Demand"
+    }
+  ] 
+}

@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Staffer": {
+    "Login": "Volosevich76"
+  },
+  "RatingInfo": {
+    "RatingValue": 9,
+    "RatingDateTime": "2022-10-10T16:38:57.7674564+03:00",
+    "RatingComment": "Nice!"
+  }
+}

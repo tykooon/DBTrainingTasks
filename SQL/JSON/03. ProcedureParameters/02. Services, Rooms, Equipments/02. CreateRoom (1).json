@@ -1,0 +1,17 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Room": {
+    "RoomName": "Cabinet 4",
+    "RoomState": {
+      "RoomState": "Accessible"
+    },
+    "RoomType": {
+      "RoomType": "Laboratory"
+    },
+    "RoomNotes": "Test Laboratory",
+    "LastUpdateDateTime": "2022-10-06T19:49:53.1999784+03:00"
+  }
+}

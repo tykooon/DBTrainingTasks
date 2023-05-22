@@ -1,0 +1,29 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Computer Lenovo",
+    "InventaryNumber": "PC333-444",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Personal Computer"
+    },
+    "EquipmentNote": "Windows 11, Intel Core i9",
+    "Services": [
+      {
+        "ServiceName": "Therapist Consultation"
+      },
+      {
+        "ServiceName": "Cardiologist Consultation"
+      }
+    ],
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 5"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6604042+03:00"
+  }
+}

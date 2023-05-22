@@ -1,0 +1,21 @@
+{
+  "Login": "Kheidor",
+  "Email": "igorkheidorov@coherentsolutions.com",
+  "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+  "FullName": "Igor Kheidorov",
+  "Gender": {
+    "GenderName": "male"
+  },
+  "DateOfBirth": "6/15/1974",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375296210031"
+    }
+  ],
+  "RegisterDateTime": "2022-09-27T18:50:45.231652+03:00",
+  "UserRole": {
+    "UserRole": "basic"
+  },
+  "LastActiveDateTime": "2022-09-27T18:50:45.231652+03:00",
+  "AdminApprover": null
+}

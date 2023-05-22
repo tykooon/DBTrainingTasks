@@ -1,0 +1,21 @@
+{
+  "Login": "Volosevich76",
+  "Email": "alexeyvolosevich@coherentsolutions.com",
+  "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+  "FullName": "Alexei Volosevich",
+  "Gender": {
+    "GenderName": "male"
+  },
+  "DateOfBirth": "6/15/1976",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375296208259"
+    }
+  ],
+  "RegisterDateTime": "2022-09-27T18:50:45.231651+03:00",
+  "UserRole": {
+    "UserRole": "basic"
+  },
+  "LastActiveDateTime": "2022-09-27T18:50:45.2316511+03:00",
+  "AdminApprover": null
+}

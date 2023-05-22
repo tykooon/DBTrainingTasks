@@ -1,0 +1,13 @@
+{
+ "PatientStatuses": [
+    {
+      "PatientStatus": "VIP"
+    },
+    {
+      "PatientStatus": "Discount" 
+    },
+    {
+      "PatientStatus": "Regular" 
+    }
+  ] 
+}

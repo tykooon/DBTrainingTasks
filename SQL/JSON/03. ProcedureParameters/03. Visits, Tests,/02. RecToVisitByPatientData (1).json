@@ -1,0 +1,12 @@
+{
+  "Patient": {
+    "Login": "Liviu",
+    "PasswordHash": "20e0we45744sdgs43aksdca"
+  },
+  "Visit": {
+    "Specialist": {
+      "Login": "Kheidor"
+    },
+    "ScheduledDateTime": "2022-11-09T10:00:00"
+  }
+}

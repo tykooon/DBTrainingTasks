@@ -1,0 +1,21 @@
+{
+  "Login": "Sidor86",
+  "Email": "alexandrasidorovich@coherentsolutions.com",
+  "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+  "FullName": "Alexandra Sidorovich",
+  "Gender": {
+    "GenderName": "female"
+  },
+  "DateOfBirth": "10/26/1986",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375295103565"
+    }
+  ],
+  "RegisterDateTime": "2022-09-27T18:50:45.2316002+03:00",
+  "UserRole": {
+    "UserRole": "basic"
+  },
+  "LastActiveDateTime": "2022-09-27T18:50:45.2316016+03:00",
+  "AdminApprover": null
+}

@@ -1,0 +1,16 @@
+{
+ "MedicalCategories": [
+    {
+      "MedicalCategory": "No Category"
+    },
+    {
+      "MedicalCategory": "Second Category"
+    },
+    {
+      "MedicalCategory": "First Category"
+    },
+    {
+      "MedicalCategory": "Highest Category"
+    }
+  ] 
+}

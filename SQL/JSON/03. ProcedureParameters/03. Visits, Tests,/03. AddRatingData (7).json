@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "Liviu",
+    "PasswordHash": "20e0we45744sdgs43aksdca"
+  },
+  "Staffer": {
+    "Login": "Kovboy"
+  },
+  "RatingInfo": {
+    "RatingValue": 6,
+    "RatingDateTime": "2022-10-11T11:44:56.7785701+03:00",
+    "RatingComment": "Some Questions!"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Staffer": {
+    "Login": "Kheidor",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "BaseService": {
+    "ServiceName": "Heart USI"
+  },
+  "Specialist": {
+    "Login": "Kheidor"
+  },
+  "VisitInfo": {
+    "ScheduledDateTime": "2022-11-09T09:00:00",
+    "PreliminaryNotes": "No food at least 2 hours before.",
+    "TotalPrice": 0,
+    "PaymentState": {
+      "PaymentState": "Not Paid"
+    },
+    "VisitStatus": {
+      "VisitStatus": "Planned"
+    },
+    "VisitType": {
+      "VisitType": "Examination"
+    }
+  },
+  "Assistants": [
+    {
+      "Login": "Sidor86"
+    }
+  ],
+  "Room": {
+    "RoomName": "Cabinet 2"
+  }
+}

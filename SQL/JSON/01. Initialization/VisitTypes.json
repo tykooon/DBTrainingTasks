@@ -1,0 +1,16 @@
+{
+ "VisitTypes": [
+    {
+      "VisitType": "Consultation"
+    },
+    {
+      "VisitType": "Examination" 
+    },
+    {
+      "VisitType": "Test Taking" 
+    },
+    {
+      "VisitType": "Operation" 
+    }
+  ] 
+}

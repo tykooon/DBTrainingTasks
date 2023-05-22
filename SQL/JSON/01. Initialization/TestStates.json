@@ -1,0 +1,22 @@
+{
+ "TestStates": [
+    {
+      "TestState": "Planned"
+    },
+    {
+      "TestState": "Started" 
+    },
+    {
+      "TestState": "Canceled" 
+    },
+    {
+      "TestState": "Postponed" 
+    },
+    {
+      "TestState": "Completed" 
+    },
+    {
+      "TestState": "Failed" 
+    }
+  ] 
+}

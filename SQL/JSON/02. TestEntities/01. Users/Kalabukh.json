@@ -1,0 +1,44 @@
+{
+  "Login": "Kalabukh",
+  "Email": "eugenkalabukhov@coherentsolutions.com",
+  "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+  "FullName": "Eugen Kalabukhov",
+  "Gender": {
+    "GenderName": "male"
+  },
+  "DateOfBirth": "12/23/1972",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375297013414"
+    }
+  ],
+  "RegisterDateTime": "2022-09-28T17:35:38.1289965+03:00",
+  "UserRole": {
+    "UserRole": "basic"
+  },
+  "LastActiveDateTime": "2022-09-28T17:35:38.1289966+03:00",
+  "AdminApprover": {
+    "Login": "Tykooon",
+    "Email": "alexandertykun@coherentsolutions.com",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca",
+    "FullName": "Alex Tykoun",
+    "Gender": {
+      "GenderName": "male"
+    },
+    "DateOfBirth": "10/13/1977",
+    "Phones": [
+      {
+        "PhoneNumber": "\u002B375296480979"
+      },
+      {
+        "PhoneNumber": "\u002B375173074754"
+      }
+    ],
+    "RegisterDateTime": "2022-09-28T17:35:38.109243+03:00",
+    "UserRole": {
+      "UserRole": "administrator"
+    },
+    "LastActiveDateTime": "2022-09-28T17:35:38.1220676+03:00",
+    "AdminApprover": null
+  }
+}

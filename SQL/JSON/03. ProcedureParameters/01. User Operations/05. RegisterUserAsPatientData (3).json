@@ -1,0 +1,21 @@
+{
+  "User": {
+    "Login": "GoodGuy"
+  },
+  "PatientInfo": {
+    "PatientPassport": "MP9786754",
+    "PatientStatus": {
+      "PatientStatus": "Regular"
+    },
+    "PatientHomeAddress": "Minsk, Chapaeva 5, off.317",
+    "Photo": "https://robohash.org/set_set1/bgset_bg2/Guydo",
+    "ChronicDeseases": "Miopia",
+    "RegisterDateTime": "2022-10-10T17:54:16.7995554+03:00",
+    "IndividualNotes": " ",
+    "InnerComment": "No Comments"
+  },
+  "Registrator": {
+    "Login": "Kovboy",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  }
+}

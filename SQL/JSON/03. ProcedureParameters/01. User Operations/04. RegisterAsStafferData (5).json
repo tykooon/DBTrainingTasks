@@ -1,0 +1,25 @@
+{
+  "User": {
+    "Login": "Sidor86"
+  },
+  "StafferInfo": {
+    "StafferPassport": "MP1357986",
+    "StafferGroup": {
+      "StafferGroup": "Medical Staff"
+    },
+    "MedicalCategory": {
+      "MedicalCategory": "Second Category"
+    },
+    "StafferHomeAddress": "Minsk, Chapaeva 5, off.401",
+    "ShortSummary": "Education: Belarusian State University, Expierience: 16 years.",
+    "Speciality": {
+      "Speciality": "Nursing"
+    },
+    "Photo": "https://robohash.org/set_set1/bgset_bg2/Alexei",
+    "RegisterDateTime": "2022-10-06T14:57:29.323865+03:00"
+  },
+  "Registrator": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  }
+}

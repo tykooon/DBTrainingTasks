@@ -1,0 +1,12 @@
+{
+  "Patient": {
+    "Login": "GoodGuy",
+    "PasswordHash": "20e0wetw346345kdcjlaksdca"
+  },
+  "Visit": {
+    "Specialist": {
+      "Login": "Volosevich76"
+    },
+    "ScheduledDateTime": "2022-11-08T12:00:00"
+  }
+}

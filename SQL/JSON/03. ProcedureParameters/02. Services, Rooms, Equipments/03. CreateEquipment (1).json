@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "zPOS D2s",
+    "InventaryNumber": "CD-01-101",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Office Technic"
+    },
+    "EquipmentNote": "Main Cash Desk on Reception",
+    "RegistrationDateTime": "2022-10-07T15:42:49.1462638+03:00"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "User": {
+    "Login": "Kheidor"
+  },
+  "StafferInfo": {
+    "StafferPassport": "MP9876543",
+    "StafferGroup": {
+      "StafferGroup": "Medical Staff"
+    },
+    "MedicalCategory": {
+      "MedicalCategory": "Highest Category"
+    },
+    "StafferHomeAddress": "Minsk, Chapaeva 5, off.400",
+    "ShortSummary": "Education: Belarusian State University Of Informatics and Radioelectronics, Master Degree. Expierience: 12 years.",
+    "Speciality": {
+      "Speciality": "Therapy"
+    },
+    "Photo": "https://robohash.org/set_set1/bgset_bg2/Igor",
+    "RegisterDateTime": "2022-10-06T14:57:29.3238379+03:00"
+  },
+  "Registrator": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  }
+}

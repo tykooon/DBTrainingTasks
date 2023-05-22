@@ -1,0 +1,24 @@
+{
+  "Guest": {
+    "IpAddress": "62.53.89.234",
+    "BrowserUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",
+    "SessionDateTime": "2022-10-05T20:21:16.3168502+03:00"
+  },
+  "User": {
+    "Login": "Volosevich76",
+    "Email": "alexeyvolosevich@coherentsolutions.com",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+    "FullName": "Alexei Volosevich",
+    "Gender": {
+      "GenderName": "Male"
+    },
+    "DateOfBirth": "6/15/1976",
+    "Phones": [
+      {
+        "PhoneNumber": "\u002B375296208259"
+      }
+    ],
+    "RegisterDateTime": "2022-10-05T20:21:16.3214408+03:00",
+    "LastActiveDateTime": "2022-10-05T20:21:16.3214409+03:00"
+  }
+}

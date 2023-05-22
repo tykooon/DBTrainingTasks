@@ -1,0 +1,29 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Mindray BC-1800 Hematology Analyzer",
+    "InventaryNumber": "BA444-555",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Analyzer"
+    },
+    "EquipmentNote": "Fully Automated hematology analyzer. 3 Part differentiation of WBC 19 Parameters \u002B 3 histograms.",
+    "Services": [
+      {
+        "ServiceName": "Common Blood Test"
+      },
+      {
+        "ServiceName": "Biochemical Blood Test"
+      }
+    ],
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 4"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6604315+03:00"
+  }
+}

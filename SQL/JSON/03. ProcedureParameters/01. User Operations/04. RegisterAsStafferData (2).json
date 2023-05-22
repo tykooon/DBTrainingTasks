@@ -1,0 +1,26 @@
+{
+  "User": {
+    "Login": "Volosevich76"
+  },
+  "StafferInfo": {
+    "StafferPassport": "MP7654321",
+    "StafferGroup": {
+      "StafferGroup": "Medical Staff"
+    },
+    "MedicalCategory": {
+      "MedicalCategory": "First Category"
+    },
+    "StafferHomeAddress": "Minsk, Chapaeva 5, off.409",
+    "ShortSummary": "Education: Belarusian State University Of Informatics and Radioelectronics, Master Degree. Expierience: 12 years.",
+    "Speciality": {
+      "Speciality": "Cardiology"
+    },
+    "Photo": "https://robohash.org/set_set1/bgset_bg2/Alexandra",
+    "RegisterDateTime": "2022-10-06T14:57:29.3238207+03:00",
+    "PersonalNotes": "Don\u0027t work after 18:00"
+  },
+  "Registrator": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  }
+}

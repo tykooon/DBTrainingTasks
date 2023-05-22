@@ -1,0 +1,13 @@
+{
+ "UserRoles": [
+    {
+      "UserRole": "Administrator"
+    },
+    {
+      "UserRole": "Advanced" 
+    },
+    {
+      "UserRole": "Regular" 
+    }
+  ] 
+}

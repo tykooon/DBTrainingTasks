@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "Malets",
+    "PasswordHash": "20e0we457445345kdcjlaksdca"
+  },
+  "Staffer": {
+    "Login": "Oleg66"
+  },
+  "RatingInfo": {
+    "RatingValue": 10,
+    "RatingDateTime": "2022-10-11T11:44:56.7796351+03:00",
+    "RatingComment": "No Questions!"
+  }
+}

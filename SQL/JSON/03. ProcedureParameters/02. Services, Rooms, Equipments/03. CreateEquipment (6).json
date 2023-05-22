@@ -1,0 +1,29 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "GE Voluson S8 Ultrasound",
+    "InventaryNumber": "US111-222",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Ultrasound"
+    },
+    "EquipmentNote": "For women\u2019s health applications, obstetrics, gynecology, fertility. Secondary applications: general imaging, adult and pediatric cardiology, and neonatal cardiology.",
+    "Services": [
+      {
+        "ServiceName": "Liver USI"
+      },
+      {
+        "ServiceName": "Heart USI"
+      }
+    ],
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 2"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6604149+03:00"
+  }
+}

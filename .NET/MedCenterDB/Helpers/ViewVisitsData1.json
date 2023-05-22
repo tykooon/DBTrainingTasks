@@ -1,0 +1,34 @@
+{
+  "Initiator": {
+    "Login": "SystemAdmin",
+    "PasswordHash": "381099FA125AD2354C92873E346B"
+  },
+  "Filters": {
+    "Specialists": [
+      {  
+		"Login": "StafferLogin1" 
+	  },
+      { 
+		"Login": "StafferLogin2" 
+	  }              
+	],
+    "StartDateTime": "2021-07-11 15:10:01",
+    "EndDateTime": "2023-07-30 15:10:01",
+    "Patient": { 
+		"Login": "PatientLogin1" 
+		},
+    "Rooms": [
+      { 
+		"RoomName": "Cabinet 1" 
+	  },
+      { 
+		"RoomName": "Cabinet 2" 
+	  }
+    ],
+    "Service": { 
+		"ServiceName": "Cardiologist consultation" 
+		}
+  },
+  "OrderTarget": "Date",
+  "OrderType": "Asc"
+}

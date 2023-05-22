@@ -1,0 +1,27 @@
+{
+  "Guest": {
+    "IpAddress": "122.34.25.34",
+    "BrowserUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",
+    "SessionDateTime": "2022-10-05T20:21:16.3167738+03:00"
+  },
+  "User": {
+    "Login": "Tykooon",
+    "Email": "alexandertykun@coherentsolutions.com",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca",
+    "FullName": "Alex Tykoun",
+    "Gender": {
+      "GenderName": "Male"
+    },
+    "DateOfBirth": "10/13/1977",
+    "Phones": [
+      {
+        "PhoneNumber": "\u002B375296480979"
+      },
+      {
+        "PhoneNumber": "\u002B375173074754"
+      }
+    ],
+    "RegisterDateTime": "2022-10-05T20:21:16.3175243+03:00",
+    "LastActiveDateTime": "2022-10-05T20:21:16.3175294+03:00"
+  }
+}

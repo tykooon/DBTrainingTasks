@@ -1,0 +1,16 @@
+{
+ "RoomStates": [
+    {
+      "RoomState": "Accessible"
+    },
+    {
+      "RoomState": "Non-Accessible" 
+    },
+    {
+      "RoomState": "Renovation" 
+    },
+    {
+      "RoomState": "Abolished" 
+    }
+  ] 
+}

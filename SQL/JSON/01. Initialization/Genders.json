@@ -1,0 +1,13 @@
+{
+ "Genders": [
+    {
+      "GenderName": "Undefined"
+    },
+    {
+      "GenderName": "Male" 
+    },
+    {
+      "GenderName": "Female" 
+    }
+  ] 
+}

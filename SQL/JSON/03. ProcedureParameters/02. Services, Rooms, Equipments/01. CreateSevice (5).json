@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Service": {
+    "ServiceName": "Liver USI",
+    "ServiceStatus": {
+      "ServiceStatus": "Accessible"
+    },
+    "Comment": "Not available after 15:00",
+    "Price": 55.5,
+    "ServiceCategory": {
+      "ServiceCategory": "Examination"
+    },
+    "Description": "Ultrasonic examination of liver"
+  }
+}

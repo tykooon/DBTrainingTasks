@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "Liviu",
+    "PasswordHash": "20e0we45744sdgs43aksdca"
+  },
+  "Staffer": {
+    "Login": "Volosevich76"
+  },
+  "RatingInfo": {
+    "RatingValue": 8,
+    "RatingDateTime": "2022-10-11T11:44:56.7781922+03:00",
+    "RatingComment": "Good!"
+  }
+}

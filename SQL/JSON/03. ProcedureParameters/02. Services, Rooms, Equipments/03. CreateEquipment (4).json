@@ -1,0 +1,26 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Laptop HP",
+    "InventaryNumber": "PC555-666",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Personal Computer"
+    },
+    "EquipmentNote": "Windows 10, AMD, 200GB",
+    "Services": [
+      {
+        "ServiceName": "Therapist Consultation"
+      }
+    ],
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 4"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6604048+03:00"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Service": {
+    "ServiceName": "Therapist Consultation",
+    "ServiceStatus": {
+      "ServiceStatus": "Accessible"
+    },
+    "Comment": "Not available on Sunday and Saturday",
+    "Price": 43.5,
+    "ServiceCategory": {
+      "ServiceCategory": "Consultation"
+    },
+    "Description": "Common procedures, Blood Pressure, Survey"
+  }
+}

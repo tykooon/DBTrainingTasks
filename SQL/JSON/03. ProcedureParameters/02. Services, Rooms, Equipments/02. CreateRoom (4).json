@@ -1,0 +1,17 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Room": {
+    "RoomName": "Cabinet 1",
+    "RoomState": {
+      "RoomState": "Accessible"
+    },
+    "RoomType": {
+      "RoomType": "Doctor\u0027s Office"
+    },
+    "RoomNotes": "Cardiological Office",
+    "LastUpdateDateTime": "2022-10-06T19:49:53.1999685+03:00"
+  }
+}

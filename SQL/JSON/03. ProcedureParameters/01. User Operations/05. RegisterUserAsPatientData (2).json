@@ -1,0 +1,22 @@
+{
+  "User": {
+    "Login": "Tykooon"
+  },
+  "PatientInfo": {
+    "PatientPassport": "MP1357911",
+    "PatientStatus": {
+      "PatientStatus": "VIP"
+    },
+    "PatientHomeAddress": "Minsk, Chapaeva 5, off.417",
+    "InsurancePolicy": "Task, DS034252321",
+    "Photo": "https://robohash.org/set_set1/bgset_bg2/AlexanderTykoun",
+    "ChronicDeseases": "Hypertesia",
+    "RegisterDateTime": "2022-10-07T18:52:40.4914321+03:00",
+    "IndividualNotes": "No Allergy to Medicine",
+    "InnerComment": "No Comments"
+  },
+  "Registrator": {
+    "Login": "Kovboy",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  }
+}

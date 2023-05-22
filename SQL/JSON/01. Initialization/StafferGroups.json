@@ -1,0 +1,19 @@
+{
+ "StafferGroups": [
+    {
+      "StafferGroup": "Receptionists"
+    },
+    {
+      "StafferGroup": "Medical Staff"
+    },
+    {
+      "StafferGroup": "Administration"
+    },
+    {
+      "StafferGroup": "Technical Staff"
+    },
+    {
+      "StafferGroup": "Non-Staff"
+    }
+  ] 
+}

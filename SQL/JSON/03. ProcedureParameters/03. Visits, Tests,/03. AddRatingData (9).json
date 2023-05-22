@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "Malets",
+    "PasswordHash": "20e0we457445345kdcjlaksdca"
+  },
+  "Staffer": {
+    "Login": "Sidor86"
+  },
+  "RatingInfo": {
+    "RatingValue": 10,
+    "RatingDateTime": "2022-10-11T11:44:56.7791315+03:00",
+    "RatingComment": "Best!"
+  }
+}

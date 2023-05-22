@@ -1,0 +1,22 @@
+{
+ "EquipmentTypes": [
+    {
+      "EquipmentType": "Personal Computer"
+    },
+    {
+      "EquipmentType": "Ultrasound" 
+    },
+    {
+      "EquipmentType": "X-Ray" 
+    },
+    {
+      "EquipmentType": "Laser Surgery" 
+    },
+    {
+      "EquipmentType": "Analyzer" 
+    },
+    {
+      "EquipmentType": "Office Technic" 
+    }
+  ] 
+}

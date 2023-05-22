@@ -1,0 +1,22 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Acer",
+    "InventaryNumber": "PC999-000",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Personal Computer"
+    },
+    "EquipmentNote": "Windows 8, AMD, 3TB",
+    "RegistrationDateTime": "2022-10-07T12:42:31.3480969+03:00",
+    "LastEditor": {
+      "Login": "Kalabukh",
+      "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+    }
+  }
+}

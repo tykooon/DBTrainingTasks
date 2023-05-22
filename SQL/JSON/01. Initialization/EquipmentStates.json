@@ -1,0 +1,16 @@
+{
+ "EquipmentStates": [
+    {
+      "EquipmentState": "In Service"
+    },
+    {
+      "EquipmentState": "Out Of Service" 
+    },
+    {
+      "EquipmentState": "On Repair" 
+    },
+    {
+      "EquipmentState": "Disposed" 
+    }
+  ] 
+}

@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Service": {
+    "ServiceName": "Common Blood Test",
+    "ServiceStatus": {
+      "ServiceStatus": "Accessible"
+    },
+    "Comment": "Everuday, till 11:00",
+    "Price": 10,
+    "ServiceCategory": {
+      "ServiceCategory": "Test"
+    },
+    "Description": "Common Blood Formula, Hemoglobine"
+  }
+}

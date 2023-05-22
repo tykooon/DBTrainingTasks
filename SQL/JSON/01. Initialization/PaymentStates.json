@@ -1,0 +1,16 @@
+{
+ "PaymentStates": [
+	{
+      "PaymentState": "Not Paid"
+    },
+    {
+      "PaymentState": "Completely Paid"
+    },
+    {
+      "PaymentState": "Rejected" 
+    },
+    {
+      "PaymentState": "Delayed" 
+    }
+  ] 
+}

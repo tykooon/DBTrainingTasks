@@ -1,0 +1,19 @@
+{
+ "RoomTypes": [
+    {
+      "RoomType": "Common Area"
+    },
+    {
+      "RoomType": "Doctor's office" 
+    },
+    {
+      "RoomType": "Service Space" 
+    },
+    {
+      "RoomType": "Laboratory" 
+    },
+    {
+      "RoomType": "Surgery" 
+    }
+  ] 
+}

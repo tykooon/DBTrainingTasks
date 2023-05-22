@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Service": {
+    "ServiceName": "Heart USI",
+    "ServiceStatus": {
+      "ServiceStatus": "Accessible"
+    },
+    "Comment": "",
+    "Price": 60.5,
+    "ServiceCategory": {
+      "ServiceCategory": "Examination"
+    },
+    "Description": "Ultrasonic examination of heart"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Guest": {
+    "IpAddress": "112.14.125.4",
+    "BrowserUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",
+    "SessionDateTime": "2022-10-05T20:21:16.31685+03:00"
+  },
+  "User": {
+    "Login": "Sidor86",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  }
+}

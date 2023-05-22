@@ -1,0 +1,24 @@
+{
+  "Guest": {
+    "IpAddress": "112.14.125.4",
+    "BrowserUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",
+    "SessionDateTime": "2022-10-10T18:35:24.6772796+03:00"
+  },
+  "User": {
+    "Login": "Malets",
+    "Email": "VadimMaletsky@coherentsolutions.com",
+    "PasswordHash": "20e0we457445345kdcjlaksdca",
+    "FullName": "Vadim Maletsky",
+    "Gender": {
+      "GenderName": "Male"
+    },
+    "DateOfBirth": "2/7/1998",
+    "Phones": [
+      {
+        "PhoneNumber": "\u002B375(29)6662103"
+      }
+    ],
+    "RegisterDateTime": "2022-10-10T18:35:24.6821583+03:00",
+    "LastActiveDateTime": "2022-10-10T18:35:24.6821583+03:00"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Computer Dell",
+    "InventaryNumber": "PC111-222",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Personal Computer"
+    },
+    "EquipmentNote": "Windows 10, Intel Core i5",
+    "Services": [
+      {
+        "ServiceName": "Therapist Consultation"
+      },
+      {
+        "ServiceName": "Cardiologist Consultation"
+      }
+    ],
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 1"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6603694+03:00"
+  }
+}

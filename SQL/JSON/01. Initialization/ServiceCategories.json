@@ -1,0 +1,22 @@
+{
+ "ServiceCategories": [
+    {
+      "ServiceCategory": "Consultation"
+    },
+    {
+      "ServiceCategory": "Examination"
+    },
+    {
+      "ServiceCategory": "Test"
+    },
+    {
+      "ServiceCategory": "Manipulation"
+    },
+    {
+      "ServiceCategory": "Operation"
+    },
+    {
+      "ServiceCategory": "Rehabilitation"
+    }
+  ] 
+}

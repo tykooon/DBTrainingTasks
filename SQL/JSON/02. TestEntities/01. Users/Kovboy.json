@@ -1,0 +1,24 @@
+{
+  "Login": "Kovboy",
+  "Email": "nastyakovbovich@coherentsolutions.com",
+  "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca",
+  "FullName": "Nastya Kovbovich",
+  "Gender": {
+    "GenderName": "female"
+  },
+  "DateOfBirth": "6/15/1999",
+  "Phones": [
+    {
+      "PhoneNumber": "\u002B375336277743"
+    },
+    {
+      "PhoneNumber": "\u002B16122791213"
+    }
+  ],
+  "RegisterDateTime": "2022-09-27T18:50:45.2316515+03:00",
+  "UserRole": {
+    "UserRole": "basic"
+  },
+  "LastActiveDateTime": "2022-09-27T18:50:45.2316515+03:00",
+  "AdminApprover": null
+}

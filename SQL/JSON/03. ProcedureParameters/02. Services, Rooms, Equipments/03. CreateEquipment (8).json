@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "Intel Pentium",
+    "InventaryNumber": "PC777-888",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "Personal Computer"
+    },
+    "EquipmentNote": "Windows 7, Intel, 4GB RAM",
+    "RegistrationDateTime": "2022-10-07T12:42:31.3480968+03:00"
+  }
+}

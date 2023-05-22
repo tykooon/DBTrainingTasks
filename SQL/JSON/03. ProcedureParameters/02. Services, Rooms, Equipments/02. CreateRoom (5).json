@@ -1,0 +1,17 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Room": {
+    "RoomName": "Cabinet 3",
+    "RoomState": {
+      "RoomState": "Accessible"
+    },
+    "RoomType": {
+      "RoomType": "Doctor\u0027s Office"
+    },
+    "RoomNotes": "X-Ray Room",
+    "LastUpdateDateTime": "2022-10-06T19:49:53.1999689+03:00"
+  }
+}

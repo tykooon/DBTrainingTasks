@@ -1,0 +1,17 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Room": {
+    "RoomName": "Cabinet 5",
+    "RoomState": {
+      "RoomState": "Accessible"
+    },
+    "RoomType": {
+      "RoomType": "Service Space"
+    },
+    "RoomNotes": "Director and Administration",
+    "LastUpdateDateTime": "2022-10-06T19:49:53.1999872+03:00"
+  }
+}

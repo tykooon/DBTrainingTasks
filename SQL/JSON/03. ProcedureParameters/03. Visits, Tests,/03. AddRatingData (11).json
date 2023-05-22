@@ -1,0 +1,14 @@
+{
+  "Patient": {
+    "Login": "GoodGuy",
+    "PasswordHash": "20e0wetw346345kdcjlaksdca"
+  },
+  "Staffer": {
+    "Login": "Oleg66"
+  },
+  "RatingInfo": {
+    "RatingValue": 10,
+    "RatingDateTime": "2022-10-11T11:44:56.7798749+03:00",
+    "RatingComment": "Perfect!"
+  }
+}

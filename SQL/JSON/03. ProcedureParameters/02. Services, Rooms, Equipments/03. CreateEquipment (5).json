@@ -1,0 +1,21 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Equipment": {
+    "EquipmentName": "BPL H-RAD 32 High Frequency X Ray",
+    "InventaryNumber": "XR222-333",
+    "EquipmentState": {
+      "EquipmentState": "In Service"
+    },
+    "EquipmentType": {
+      "EquipmentType": "X-Ray"
+    },
+    "EquipmentNote": "User configurable anatomic programming with 216 program options. 40 to 125 in steps of 1kVp only",
+    "EquipmentRoom": {
+      "RoomName": "Cabinet 3"
+    },
+    "RegistrationDateTime": "2022-10-06T19:22:42.6604234+03:00"
+  }
+}

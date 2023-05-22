@@ -1,0 +1,17 @@
+{
+  "Admin": {
+    "Login": "Tykooon",
+    "PasswordHash": "20e0dckdjc02kdcjlaksdca"
+  },
+  "Room": {
+    "RoomName": "Cabinet 2",
+    "RoomState": {
+      "RoomState": "Accessible"
+    },
+    "RoomType": {
+      "RoomType": "Doctor\u0027s Office"
+    },
+    "RoomNotes": "Ultrasound Room",
+    "LastUpdateDateTime": "2022-10-06T19:49:53.1999687+03:00"
+  }
+}

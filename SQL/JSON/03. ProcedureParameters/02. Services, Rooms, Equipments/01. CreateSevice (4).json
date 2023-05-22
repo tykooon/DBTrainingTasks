@@ -1,0 +1,18 @@
+{
+  "Admin": {
+    "Login": "Kalabukh",
+    "PasswordHash": "20e0wetwdckdjc02kdcjlaksdca"
+  },
+  "Service": {
+    "ServiceName": "Biochemical Blood Test",
+    "ServiceStatus": {
+      "ServiceStatus": "Accessible"
+    },
+    "Comment": "",
+    "Price": 15.8,
+    "ServiceCategory": {
+      "ServiceCategory": "Test"
+    },
+    "Description": "Cholesterine, ASAT, ALAT, Proteine"
+  }
+}

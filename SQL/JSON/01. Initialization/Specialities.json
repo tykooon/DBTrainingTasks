@@ -1,0 +1,22 @@
+{
+ "Specialities": [
+    {
+      "Speciality": "Non-Medical"
+    },
+    {
+      "Speciality": "Nursing"
+    },
+    {
+      "Speciality": "Surgery"
+    },
+    {
+      "Speciality": "Therapy"
+    },
+    {
+      "Speciality": "Otorhinolaryngology"
+    },
+    {
+      "Speciality": "Cardiology"
+    }
+  ] 
+}

@@ -1,0 +1,22 @@
+{
+ "VisitStatuses": [
+    {
+      "VisitStatus": "Planned"
+    },
+    {
+      "VisitStatus": "Canceled" 
+    },
+    {
+      "VisitStatus": "Postponed" 
+    },
+    {
+      "VisitStatus": "Rejected" 
+    },
+    {
+      "VisitStatus": "Finished" 
+    },
+    {
+      "VisitStatus": "Extended" 
+    }
+  ] 
+}
